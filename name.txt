@@ -1,2 +1,6 @@
 hello wellcome to devops anita
+<<<<<<< HEAD
 hello good noon
+=======
+hello i need linux notes
+>>>>>>> 4cf1f79 (this is the version of name.txt)
